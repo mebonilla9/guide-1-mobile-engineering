@@ -1,0 +1,7 @@
+[submodule "guide-1-mobile-engineering-be"]
+  path = guide-1-mobile-engineering-be
+  url = ../guide-1-mobile-engineering-be.git
+
+[submodule "guide-1-mobile-engineering-me"]
+  path = guide-1-mobile-engineering-me
+  url = ../guide-1-mobile-engineering-me.git
